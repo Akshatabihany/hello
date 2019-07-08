@@ -1,0 +1,97 @@
+.section1
+{
+font-family: 'Raleway', sans-serif;
+}
+#section2
+{
+  padding-top: 180px;
+  text-align: center;
+  padding-bottom:160px;
+}
+#firsth1
+{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 70px;
+}
+#firsth2
+{
+  font-family: 'Raleway', sans-serif;
+  font-size: 29px;
+}
+#section3
+{
+  padding-top: 180px;
+  text-align: center;
+  padding-bottom:180px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 29px;
+    background-color:#63aabc;
+}
+#name
+{
+  background-color: #67eaca;
+    font-style: italic;
+    font-style: oblique;
+    color: white;
+
+
+}
+.spans
+{
+  font-style: italic;
+  font-style: oblique;
+  color:#d3f6f3;
+  text-decoration: underline;
+}
+#section4
+{
+  padding-top: 180px;
+  text-align: center;
+  padding-bottom:180px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 29px;
+}
+#section5
+{
+  padding-top: 180px;
+  text-align: center;
+  padding-bottom:180px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 29px;
+    background-color:#67eaca;
+}
+#section6
+{
+  padding-top: 180px;
+  text-align: center;
+  padding-bottom:180px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 29px;
+}
+.pics
+{
+   width: 500px;
+   height: 300px;
+}
+.td1
+{
+  width: 50%;
+  padding-left: 150px;
+}
+.td2
+{
+  width: 50%;
+}
+#footer
+{   align-items: center;
+  padding-top: 80px;
+  text-align: center;
+  padding-bottom:80px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+background-color:#67eaca;
+}
+#j
+{
+  font color: #63aabc;
+}
